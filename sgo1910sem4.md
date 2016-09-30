@@ -84,6 +84,9 @@ Spatially extensive data are things like populations. The population of the UK m
 
 ---
 
+Be wary of
 ![create](http://i.giphy.com/xTiTnMj5s7bNlgvZg4.gif)
 
 ---
+### maps beat no maps, everytime
+![europe](http://i.giphy.com/EMN1oJmbe5uWA.gif)
