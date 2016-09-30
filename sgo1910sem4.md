@@ -82,11 +82,21 @@ Spatially extensive data are things like populations. The population of the UK m
 * symbology
 * balance
 
+
+---
+An extremely powerful form of communication
+---
+In policy
+#### ~~some numbers beat no numbers, every time~~
+### some maps beat no maps, every time
+
 ---
 
-Be wary of
+![europe](http://i.giphy.com/EMN1oJmbe5uWA.gif)
+---
+literally imposing your world view on others
+---
+
+Be wary of your new found powers
 ![create](http://i.giphy.com/xTiTnMj5s7bNlgvZg4.gif)
 
----
-### maps beat no maps, everytime
-![europe](http://i.giphy.com/EMN1oJmbe5uWA.gif)
