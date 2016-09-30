@@ -94,6 +94,14 @@ In policy
 
 ![europe](http://i.giphy.com/EMN1oJmbe5uWA.gif)
 ---
+# ≠ fact 
+- facts are always cooked 
+
+---
+and as cartographers, we are the chefs
+![ramsay](http://i.giphy.com/l3V0gnmiNvCNz85Wg.gif)
+
+---
 literally imposing your world view on others
 ---
 
