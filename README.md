@@ -1,3 +1,4 @@
-## A whole lotta presenting goin' on.
+## Presentations
 
-![elvis](http://vector-magz.com/wp-content/uploads/2013/07/elvis-clipart-231x300.jpg)
+ This repository is forked from ![Shawn Graham]https://github.com/shawngraham/presentations/
+

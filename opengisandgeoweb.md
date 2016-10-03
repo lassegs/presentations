@@ -1,28 +1,49 @@
 # Open GIS and the geoeweb
 ### Or how I left the desktop and started living
-by lassegs with reveal.js
+
+<div align="right">by lassegs with reveal.js</div>
 ---
 
-## Follow?
+##
 
 ![cowabunga](http://www.reactiongifs.com/wp-content/gallery/no/john-cleese-no.gif)
+
+
+
+A quick walk through of the **big** 3 of **W3**
 
 ---
 # HTML
 
 Hypertext Markup Language is used to structure content for web browsers.
 
+```
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <h1>Page Title</h1>
+        <p>This is a really interesting paragraph.</p>
+    </body>
+</html>
+```
 ---
-Markdown er det motsatte
---
 
-<iframe src="//giphy.com/embed/o0vwzuFwCGAFO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO">via GIPHY</a></p>
+# CSS
 
+Cascading Style Sheets styles the visuals of HTML sites.
+```
+body {
+    background-color: white;
+    color: black;
+}
+```
 ---
+# Javascript
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZllwNlyTfLs" frameborder="0" allowfullscreen></iframe>	
+Javascript allows us to control and change the web site after its loaded.
 
----
 
 Du må huske på 
 # A
@@ -40,5 +61,6 @@ This is an oppertunity to speak a new dialect
 
 --
 
-## Image credits
+## credits and inspirations
+http://alignedleft.com/tutorials/d3/fundamentals
 http://www.reactiongifs.com/wp-content/gallery/no/john-cleese-no.gif
