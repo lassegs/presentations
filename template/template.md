@@ -2,6 +2,7 @@
 
 ---
 
-> Copy it and start a new presentation
+
+Copy it and start a new presentation
 
 
