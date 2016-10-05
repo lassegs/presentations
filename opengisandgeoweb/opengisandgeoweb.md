@@ -157,10 +157,13 @@ The free as in freedom Geographical Information System
 ## QGIS
 
 ---
+<!-- .slide: data-background="https://qgis2015.files.wordpress.com/2015/02/1k0a4924.jpg" -->
+
 
 Tool of the trade, basic and advanced. 
 ![Everyone loves QGIS](https://qgis2015.files.wordpress.com/2015/02/1k0a4924.jpg)
 
+http://demo.qgis.org/demos/2015/index.html
 ---
 
 <section data-background="Wake_Pop_density_2.png"> </section>
