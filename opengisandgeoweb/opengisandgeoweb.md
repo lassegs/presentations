@@ -19,14 +19,15 @@ In a galaxy not so far away, neither in time nor space...
 
 ```
 
- I explore the origins of the hacker culture,including prehistory among the Real
- Programmers, the glory days of the MIT hackers, and how the early ARPAnet nurtured
- the first network nation.
+ I explore the origins of the hacker culture,including prehistory
+ among the Real Programmers, the glory days of the MIT hackers,
+ and how the early ARPAnet nurtured  the first network nation.
 
- I describe the early rise and eventual stagnation of Unix, the new hope from
- Finland, and how *the last true hacker* became the next generation's patriarch. I
- sketch the way Linux and the mainstreaming of the Internet brought the hacker
- culture from the fringes of public consciousness to its current prominence.
+ I describe the early rise and eventual stagnation of Unix,
+ the new hope from  Finland, and how *the last true hacker*
+ became the next generation's patriarch. I sketch the way Linux
+ and the mainstreaming of the Internet brought the hacker culture 
+ from the fringes of public consciousness to its current prominence.
 
 
 ```
