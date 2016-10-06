@@ -13,7 +13,7 @@ This is the story of the state of web mapping from a free software and open sour
 
 <!-- .slide: data-background-color="#000" data-background-transition="zoom" -->
 <div style="font-weight: 800">
-In a galaxy not so far away, in neither time nor space...
+In a galaxy not so far away, neither in time nor space...
 </div>
 
 
