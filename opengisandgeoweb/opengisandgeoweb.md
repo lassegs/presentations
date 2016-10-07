@@ -306,10 +306,12 @@ Omnious desktop fucking metaphor, the violent real abstraction of the desktop.
 <!-- .slide: source data-background="http://i.giphy.com/j6iyD03LaUNuU.gif" data-background-transition="zoom" data-transition="zoom" -->
 ![websurfin](http://i.giphy.com/j6iyD03LaUNuU.gif)
 
+
+---
+
 ### Speak Computer / 
 ### computer speaks back
 
----
 
 ```
 
