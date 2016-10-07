@@ -320,16 +320,15 @@ lassegs@computer -> :*(
 ```
 ---
 
-There are many types of web maps and combinations of maps and other visualizations 
+Web maps can be many things 
 <iframe data-src="https://www.gapminder.org/tools/?embedded=true#_chart-type=bubbles" width="100%" height="700px" frameBorder="0" ></iframe>
 
 
 ---
 
-For the next period, we'll be focusing on pure web maps. 
+For the next period, we'll be focusing on pure web maps and try to make one ourselves. 
 
 Now its time for
-
 #recess
 
 ---
