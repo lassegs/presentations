@@ -306,9 +306,10 @@ Omnious desktop fucking metaphor, the violent real abstraction of the desktop.
 <!-- .slide: source data-background="http://i.giphy.com/j6iyD03LaUNuU.gif" data-background-transition="zoom" data-transition="zoom" -->
 ![websurfin](http://i.giphy.com/j6iyD03LaUNuU.gif)
 
-
 ### Speak Computer / 
 ### computer speaks back
+
+---
 
 ```
 
@@ -320,10 +321,16 @@ lassegs@computer -> :*(
 ---
 
 There are many types of web maps and combinations of maps and other visualizations 
+<iframe data-src="https://www.gapminder.org/tools/?embedded=true#_chart-type=bubbles" width="100%" height="700px" frameBorder="0" ></iframe>
+
 
 ---
 
-Recess
+For the next period, we'll be focusing on pure web maps. 
+
+Now its time for
+
+#recess
 
 ---
 
