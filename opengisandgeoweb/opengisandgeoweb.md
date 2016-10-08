@@ -7,13 +7,19 @@
 
 A presentation to the tune of the [Cantina theme](https://www.youtube.com/watch?v=kCGPt3XFxJk). 
 
-This is the story of the state of web mapping from a free software and open source perspective. The story is rendered in typical Star Wars style. For the lulz.
+This is the story of GIS and web maps from a free software and open source perspective. The set up borrows some elements Star Wars, for the lulz.
 
 + 10:15 Story time
 + 11:00 Recess
 + 11:15 Story time
 + 11:35 Discussion
 + 12:00 Release
+
+Note:
+We find ourselves under the rule of Empire.
+We'll meet an animal that looks funny, but is shown to be a great teacher.
+In the face of darkness, we discover our own great powers.
+Some paternal bonds are revealed. 
 
 ---
 
@@ -40,10 +46,33 @@ In a galaxy not so far away, neither in time nor space...
 
 <div align="right">by ESR from [Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/hacker-history/index.html#id2763962)</div>
 
+Note:
+What do I want to show with this? 
+Hacker culture is old, and lineages can be traced all the way to the beginning.
+It is so old that even the meta level of hackery is old: The hackers' Jargon File can be traced back to a text file
+that was circulated on ARPAnet in 1975, but some words are as old as the early 60s. This file contains the definitions of hacker words, it is a dictionary, and
+contains words like
+Hackers insist that they should not be confused with computer criminals. As RMS says:
+
+
 ---
 
+
+<p style="text-align:left">[**baroque**](http://www.catb.org/jargon/html/B/baroque.html) <span style="font-size: 0.6em"> *adj.* [common] 	Feature-encrusted; complex; gaudy; verging on excessive. Said of hardware or (esp.) software designs, this has many of the connotations of [elephantine](http://www.catb.org/jargon/html/E/elephantine.html) or [monstrosity](http://www.catb.org/jargon/html/M/monstrosity.html) but is less extreme and not pejorative in itself. In the absence of other, more negative descriptions this term suggests that the software is trembling on the edge of bad taste but has not quite tipped over into it. “Metafont even has features to introduce random variations to its letterform output. Now that is baroque!” See also [rococo](http://www.catb.org/jargon/html/R/rococo.html).
+</span></p>
+
+--
+
+<p style="text-align:left">[**lion food**](http://www.catb.org/jargon/html/L/lion-food.html) <span style="font-size: 0.6em"> *n.* [IBM] 	Middle management or HQ staff (or, by extension, administrative drones in general). From an old joke about two lions who, escaping from the zoo, split up to increase their chances but agree to meet after 2 months. When they finally meet, one is skinny and the other overweight. The thin one says: “How did you manage? I ate a human just once and they turned out a small army to chase me — guns, nets, it was terrible. Since then I've been reduced to eating mice, insects, even grass.” The fat one replies: “Well, I hid near an IBM office and ate a manager a day. And nobody even noticed!”
+</span></p>
+<p style="text-align:right">[- The Jargon File v. 4.4.7](http://www.catb.org/jargon/html)
+
+---
 <!-- .slide: data-background-color="#000" -->
-A tour down the rabbit hole of [data science](https://www.coursera.org/specializations/jhu-data-science "Learn it at coursera")...
+A tour down the rabbit hole of hacker culture,
+where we take a look at [data science](https://www.coursera.org/specializations/jhu-data-science "Missing at UIO: learn it at Coursera") and visualizations.
+
+...
  
 <iframe data-src="//giphy.com/embed/y55tOswHWvBxC" width="680" height="460" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
@@ -55,8 +84,7 @@ A history of digital mapping. One that tries to lay out a map of mapping, consid
 our current situation. A given here is Bacon's statement that 'knowledge is power'.
 When we create maps, make visualizations, or even just present, we are in fact creating new worlds. 
 
-So be fully aware that while I try to offer you shoulders to stand on and see further,
-you will also be subjected to my shortcomings, oversights and misunderstandings.
+So be fully aware that while I try to offer you shoulders to stand on and see further, this is a 'baroque' piece, crammed with details. The presentation shouldn't really be held without ensuring URL distribution. You will also be subjected to my shortcomings, oversights and misunderstandings.
 
 
 ---
@@ -77,16 +105,20 @@ you will also be subjected to my shortcomings, oversights and misunderstandings.
 
 
 Note:
-How long it will last, basic structure
+How long it will last, basic structure. Again baroque.
 
 
 ---
 
-### the resistance,
+### You, the resistance,
 <iframe data-src="//giphy.com/embed/8jdQ5engCKyQM" width="680" height="460" frameBorder="0" class="giphy-embed" allowFullScreen></iframe
 
 Note:
 the resistance 
+
+---
+
+<iframe data-src="//giphy.com/embed/l0HlJxqbJG5xKI4KI" width="480" height="328" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ---
 
@@ -100,7 +132,7 @@ the resistance
 <!-- .slide: source data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Streifengnu_%28en._Wildebeest%29.JPG/1024px-Streifengnu_%28en._Wildebeest%29.JPG" -->
 
 Note:
-the wierd animal that turns out to be a powerful teacher.. RMS or the penguin? No, its obviously the GNU
+the wierd animal that turns out to be a powerful teacher.. RMS or the penguin? No, its obviously the GNU.
 
 Before next slide, remind about perspective, story telling and choice of technologies affects worldview. 
 
@@ -176,7 +208,9 @@ GRASS is freely available, and very usable together with QGIS.
 
 1980s saw the breakthrough of 
 
-Norge var tidlig på ARPAnet, da vi hadde seismiske stasjoner for måling av atombombesprenginger i Sovjet.
+Norge var tidlig på ARPAnet, da vi hadde seismiske stasjoner for måling av atombombesprenginger i grunnfjellet som også Sovjet er geografisk plassert på.
+
+
 ---
 
 ### Alternative view
@@ -255,25 +289,34 @@ Ok, so it opens, visualizes, analyzes, stores what?
 ---
 
 <!-- .slide: source data-background="https://upload.wikimedia.org/wikipedia/commons/0/05/Efecto_matrix.jpeg" -->
+
+Note:
+A database stores data, it doesnt care which type. In our times databases can be really, really big.
 ---
 
-# Capta 
-as opposed to
-# data
+## [Capta](https://www.researchgate.net/profile/C_Hinton/publication/42789107_Introducing_information_management_the_business_approach/links/548876d60cf289302e30af94.pdf#page=56) 
+not
+### data
 
+Note:
+Data are a starting point in our mental processing. Capta are the
+result of selecting some for attention, or creating some new category –
+such as ‘the number of octogenarian widows living alone in Wigan’ in
+the example above – or being so surprised by some items of data which
+pass across our gaze that we begin to pay them attention. 
 
 --- 	
 
 
 ---
-<!-- .slide: source data-background="http://img.lum.dolimg.com/v1/images/open-uri20150608-27674-13oku6w_bb2a0468.jpeg" -->
+<!-- .slide: source data-background="http://vignette2.wikia.nocookie.net/starwars/images/7/7b/Starkiller_firing.png" -->
 
 <iframe data-src="//giphy.com/embed/2JA0YPswSWXkI" width="900" height="660" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/blog-map-social-2JA0YPswSWXkI">via GIPHY</a></p>
 
 
 ---
 The free as in freedom Geographical Information System
-## QGIS
+## [QGIS](www.qgis.org)
 
 ---
 <!-- .slide: source data-background="https://qgis2015.files.wordpress.com/2015/02/1k0a4924.jpg" -->
@@ -281,17 +324,68 @@ The free as in freedom Geographical Information System
 
 #### Tool of the trade, basic and advanced
  
-
+<div style="background-color: rgba(255, 255, 255); background-color: rgba(	255, 255,	 255, .2);">
 ![Everyone loves QGIS](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/QGis_Logo.png/436px-QGis_Logo.png)
+<div>
 
 [QGIS 2015 Nødebo](http://demo.qgis.org/demos/2015/index.html).
 ---
+![wakepop](Wake_Pop_density_2.png)
 
-<section data-background="Wake_Pop_density_2.png"> </section>
+---
+###The good
+
+- Handles all types of files
+ * .shp, .geojson, .csv, 
+   * .sosi  	<small>*maintained by the Norwegian Mapping Authority (Kartverket)</small>
+ 
+- Connects to all kinds of databases
+ * Excellent PostGIS database support
+	
+- Fast: 64bit and multi core support.
+<small> * Why doesnt ArcGIS have this?</small>
+- Awesome plugin system
+
+Note:
+Except 
+---
+
+* Better dialogues
+
+![dialoguesqgis](dialogue.gif)
+
+
+Note:
+When you only need one or two clicks in QGIS, you need to open 3 dialogs and click on 5 buttons to do the same in ArcMap.
+
 
 ---
 
-Weakness
+* Much better color picker
+
+![colorpicker](https://gisunchained.files.wordpress.com/2016/01/anim.gif)
+
+Note:
+Basic stuff like colorpicking is important for cartographers, since we deal with esthetics. 
+
+---
+
+###The bad
+
+* Does not handle ArcGIS project file .mxd 
+* Lacks many of the advanced geoprocessing algorithms ArcGIS has, is catching up.
+---
+
+
+
+---
+
+### The bad
+
+
+---
+
+###Paradigm Weakness
 
 * Desktops, desktops everywhere.
 * Stiff maps
@@ -309,18 +403,6 @@ Omnious desktop fucking metaphor, the violent real abstraction of the desktop.
 
 ---
 
-### Speak Computer / 
-### computer speaks back
-
-
-```
-
-lassegs@computer ~> echo "I'm not alone"
-> I'm not alone
-lassegs@computer -> :*(
-
-```
----
 
 Web maps can be many things 
 <iframe data-src="https://www.gapminder.org/tools/?embedded=true#_chart-type=bubbles" width="100%" height="700px" frameBorder="0" ></iframe>
@@ -336,20 +418,29 @@ Now its time for
 ---
 
 <!-- .slide: data-background="http://img.wallpaperfolder.com/f/6537179D1199/was-looking-mr-robot-and.jpg" -->
-# Hacker culture / 
-# Culture hacking
-
+# Hacker culture /  Culture hacking
 
 
 ---
+![lessig](https://lh6.googleusercontent.com/-xQzmqQweqIM/AAAAAAAAAAI/AAAAAAAABI4/1KObWBs9wVg/s0-c-k-no-ns/photo.jpg)
 
-In the computer age, code is law.
+"In the computer age, code is law."
+<p style="font-size: .7em; text-align: right">Lawrence Lessig</p>
 
----
 
 ---
 
 ![nope](http://www.reactiongifs.com/wp-content/gallery/no/john-cleese-no.gif)
+
+Note:
+Social scientists should heed his warning. What does it mean though? Can inforamtics be understood as applied social science for engineers, designers and builders? 
+
+I'm not saying that 
+---
+
+---
+
+
 
 A quick walk through of the **big 3** of **W3**
 
@@ -383,7 +474,7 @@ body {
 ---
 ## Javascript
 
-Javascript allows us to control and change the web site after its loaded.
+Javascript lets us control and change the web site after it has loaded.
 
 
 ---
@@ -504,6 +595,9 @@ The awesome powers of organization
 2020s - IPFS and smart contracts
 
 ---
+## Tools
+https://github.com/tilezen/vector-datasource - OSM vector tile service
+
 
 
 ## credits, inspirations and resources
