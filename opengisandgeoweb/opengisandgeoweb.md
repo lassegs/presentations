@@ -1,10 +1,16 @@
+<!-- .slide: data-background-color="#000" data-background-transition="zoom" -->
+Direct computer/phone/tablet/phablet/head implant
 
+to
+
+## [**blokk.lassegs.org**](http://blokk.lassegs.org)
+
+---
 
 # Open GIS and the geoeweb
 <div align="right">by lassegs with reveal.js</div>
 
 ---
-
 A presentation to the tune of the [Cantina theme](https://www.youtube.com/watch?v=kCGPt3XFxJk). 
 
 This is the story of GIS and web maps from a free software and open source perspective. The set up borrows some elements Star Wars, for the lulz.
@@ -61,18 +67,10 @@ Hackers insist that they should not be confused with computer criminals. As RMS 
 <p style="text-align:left">[**baroque**](http://www.catb.org/jargon/html/B/baroque.html) <span style="font-size: 0.6em"> *adj.* [common] 	Feature-encrusted; complex; gaudy; verging on excessive. Said of hardware or (esp.) software designs, this has many of the connotations of [elephantine](http://www.catb.org/jargon/html/E/elephantine.html) or [monstrosity](http://www.catb.org/jargon/html/M/monstrosity.html) but is less extreme and not pejorative in itself. In the absence of other, more negative descriptions this term suggests that the software is trembling on the edge of bad taste but has not quite tipped over into it. “Metafont even has features to introduce random variations to its letterform output. Now that is baroque!” See also [rococo](http://www.catb.org/jargon/html/R/rococo.html).
 </span></p>
 
---
-
-<p style="text-align:left">[**lion food**](http://www.catb.org/jargon/html/L/lion-food.html) <span style="font-size: 0.6em"> *n.* [IBM] 	Middle management or HQ staff (or, by extension, administrative drones in general). From an old joke about two lions who, escaping from the zoo, split up to increase their chances but agree to meet after 2 months. When they finally meet, one is skinny and the other overweight. The thin one says: “How did you manage? I ate a human just once and they turned out a small army to chase me — guns, nets, it was terrible. Since then I've been reduced to eating mice, insects, even grass.” The fat one replies: “Well, I hid near an IBM office and ate a manager a day. And nobody even noticed!”
-</span></p>
-<p style="text-align:right">[- The Jargon File v. 4.4.7](http://www.catb.org/jargon/html)
 
 ---
 <!-- .slide: data-background-color="#000" -->
-A tour down the rabbit hole of hacker culture,
-where we take a look at [data science](https://www.coursera.org/specializations/jhu-data-science "Missing at UIO: learn it at Coursera") and visualizations.
-
-...
+A tour down the rabbit hole of science in the digital age
  
 <iframe data-src="//giphy.com/embed/y55tOswHWvBxC" width="680" height="460" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
@@ -596,6 +594,8 @@ The awesome powers of organization
 
 ---
 ## Tools
+![githubpack](https://dwa5x7aod66zk.cloudfront.net/assets/sdp-backpack-a64038716bf134f45e809ff86b9611fb97e41bbd2ccfa3181da73cf164d3c200.png)
+
 https://github.com/tilezen/vector-datasource - OSM vector tile service
 
 
