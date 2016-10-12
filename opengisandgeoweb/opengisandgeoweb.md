@@ -594,18 +594,13 @@ Openlayers
 ## Tools
 
 [Sign up for free stuff @ Github Student Developer Pack](https://education.github.com/pack)
-![githubpack](https://dwa5x7aod66zk.cloudfront.net/assets/sdp-backpack-a64038716bf134f45e809ff86b9611fb97e41bbd2ccfa3181da73cf164d3c200.png)
+<img data-src="https://dwa5x7aod66zk.cloudfront.net/assets/sdp-backpack-a64038716bf134f45e809ff86b9611fb97e41bbd2ccfa3181da73cf164d3c200.png" width="400px"></img>
 
 
-
+---
 
 ## credits, inspirations and resources
 http://alignedleft.com/tutorials/d3/fundamentals
-http://www.reactiongifs.com/wp-content/gallery/no/john-cleese-no.gif
-http://boundlessgeo.com/wp-content/uploads/2016/04/Wake_Pop_density_2.png
-http://i.giphy.com/j6iyD03LaUNuU.gif
-https://upload.wikimedia.org/wikipedia/commons/e/ea/Battle_of_Bentonville_map.png
-http://map.norsecorp.com/#/platform
 
 Electronic Archeologist blog:
 Programming Historian blog: 
