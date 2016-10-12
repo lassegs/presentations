@@ -424,7 +424,9 @@ Now its time for
 #recess
 
 ---
+### [recess animation](http://nyctaxi.herokuapp.com/)
 
+---
 <!-- .slide: data-background="http://img.wallpaperfolder.com/f/6537179D1199/was-looking-mr-robot-and.jpg" -->
 # Hacker culture /  Culture hacking
 
@@ -555,18 +557,28 @@ Both leaflet and openlayers depend on this logic: A "map" div places a map eleme
 
 ---
 
-
-<iframe data-src="https://www.1881.no/kart/" width="100%" height="700px" frameBorder="0" ></iframe>
+<iframe src="http://kart.gulesider.no/m/o7cvq?embed=true&center=59.90513377927512,10.75&zoom=14&layer=map" width="100%" height="600" frameborder="0" style="border:0"></iframe>
 
 Note:
 Leaflet
 
+curl -s -I gulesider.no | grep Server
+Apache
+
 ---
 
-<iframe data-src="https://darksky.net/25.7743,-80.1937" width="100%" height="700px" frameBorder="0" ></iframe>
+<iframe data-src="https://darksky.net/25.7743,-80.1937#map-container" width="100%" height="700px" frameBorder="0" ></iframe>
 
 Note:
 Openlayers
+
+Hourly and daily forecasts for the next week.
+Minute-by-minute “hyperlocal” rain forecasts.
+Governmental severe weather alerts.
+ 
+Observations going back decades.
+Dozens of languages and measurement units.
+Easy to understand documentation.
 
 ---
 
@@ -595,8 +607,15 @@ Openlayers
 
 [Sign up for free stuff @ Github Student Developer Pack](https://education.github.com/pack)
 <img data-src="https://dwa5x7aod66zk.cloudfront.net/assets/sdp-backpack-a64038716bf134f45e809ff86b9611fb97e41bbd2ccfa3181da73cf164d3c200.png" width="400px"></img>
+---
+## Tools
 
+* https://carto.com/ CartoDB has been renamed Carto and is even more streamlined. Runs as a service, only 250mb free.
+* https://knightlab.northwestern.edu/projects/  - nice and easy javascripts for embedding complex maps in web pages.
+* http://pixelmap.amcharts.com/ - Simple and fun pixel map editor
+* http://systemapic.com/ - Innovative UiO based beta, for sharing and publishing geodata on and to the web
 
+more at http://blokk.lassegs.org
 ---
 
 ## credits, inspirations and resources
