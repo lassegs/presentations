@@ -592,9 +592,10 @@ Openlayers
 
 ---
 ## Tools
+
+[Sign up for free stuff @ Github Student Developer Pack](https://education.github.com/pack)
 ![githubpack](https://dwa5x7aod66zk.cloudfront.net/assets/sdp-backpack-a64038716bf134f45e809ff86b9611fb97e41bbd2ccfa3181da73cf164d3c200.png)
 
-https://github.com/tilezen/vector-datasource - OSM vector tile service
 
 
 
