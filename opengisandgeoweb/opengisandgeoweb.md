@@ -10,10 +10,11 @@ to
 # Open GIS and the geoeweb
 <div align="right">by lassegs with reveal.js</div>
 
+
 ---
 A presentation to the tune of the [Cantina theme](https://www.youtube.com/watch?v=kCGPt3XFxJk). 
 
-This is the story of GIS and web maps from a free software and open source perspective. The set up borrows some elements Star Wars, for the lulz.
+This is the story of GIS and web maps from a free software praxis perspective. The set up borrows some elements Star Wars, for the lulz.
 
 + 10:15 Story time
 + 11:00 Recess
@@ -22,6 +23,7 @@ This is the story of GIS and web maps from a free software and open source persp
 + 12:00 Release
 
 Note:
+Open Source is model of development, free software is political. 
 We find ourselves under the rule of Empire.
 We'll meet an animal that looks funny, but is shown to be a great teacher.
 In the face of darkness, we discover our own great powers.
@@ -130,7 +132,7 @@ the resistance
 <!-- .slide: source data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Streifengnu_%28en._Wildebeest%29.JPG/1024px-Streifengnu_%28en._Wildebeest%29.JPG" -->
 
 Note:
-the wierd animal that turns out to be a powerful teacher.. RMS or the penguin? No, its obviously the GNU.
+the weird animal that turns out to be a powerful teacher.. RMS or the penguin? No, its obviously the GNU.
 
 Before next slide, remind about perspective, story telling and choice of technologies affects worldview. 
 
@@ -186,6 +188,7 @@ Chthulucene is a another deep kind of ecological argument. All of these are link
 ![Gnu Flute!](http://blog.larocadelconsejo.net/wp-content/uploads/2007/11/gnu_meditate_levitate.png)
 
 ---
+
 # Free software
 
 Note: 
@@ -279,41 +282,8 @@ Open, visualize, analyse and store
  * As .pdf (to the printer)	
 
 ---
-Ok, so it opens, visualizes, analyzes, stores what?
-<h2>What are we mapping?</h2>
-# Data?
 
-
----
-<!-- .slide: source data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Battle_of_Bentonville_map.png/858px-Battle_of_Bentonville_map.png" -->
- 
----
-
-<!-- .slide: source data-background="https://upload.wikimedia.org/wikipedia/commons/0/05/Efecto_matrix.jpeg" -->
-
-Note:
-A database stores data, it doesnt care which type. In our times databases can be really, really big.
----
-
-## [Capta](https://www.researchgate.net/profile/C_Hinton/publication/42789107_Introducing_information_management_the_business_approach/links/548876d60cf289302e30af94.pdf#page=56) 
-not
-### data
-
-Note:
-Data are a starting point in our mental processing. Capta are the
-result of selecting some for attention, or creating some new category –
-such as ‘the number of octogenarian widows living alone in Wigan’ in
-the example above – or being so surprised by some items of data which
-pass across our gaze that we begin to pay them attention. 
-
---- 	
-
-
----
-<!-- .slide: source data-background="http://vignette2.wikia.nocookie.net/starwars/images/7/7b/Starkiller_firing.png" -->
-
-<iframe data-src="//giphy.com/embed/2JA0YPswSWXkI" width="900" height="660" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/blog-map-social-2JA0YPswSWXkI">via GIPHY</a></p>
-
+This can be replicated!
 
 ---
 The free as in freedom Geographical Information System
@@ -374,15 +344,13 @@ Basic stuff like colorpicking is important for cartographers, since we deal with
 ###The bad
 
 * Does not handle ArcGIS project file .mxd 
-* Lacks many of the advanced geoprocessing algorithms ArcGIS has, is catching up.
+* Lacks many of the advanced geoprocessing algorithms ArcGIS has.<small>*is catching up.</small>
 ---
 
+<!-- .slide: source data-background="http://bturn.com/wp-content/uploads/2011/11/darth-vader-face.jpeg" -->
 
 
----
-
-### The bad
-
+> ## "Luke, you were made in my image"
 
 ---
 
@@ -396,6 +364,45 @@ Basic stuff like colorpicking is important for cartographers, since we deal with
 Note:
 Omnious desktop fucking metaphor, the violent real abstraction of the desktop.
 
+---
+
+Ok, so it opens, visualizes, analyzes, stores what?
+<h2>What are we mapping?</h2>
+# Data?
+
+
+---
+<!-- .slide: source data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Battle_of_Bentonville_map.png/858px-Battle_of_Bentonville_map.png" -->
+ 
+---
+
+<!-- .slide: source data-background="https://upload.wikimedia.org/wikipedia/commons/0/05/Efecto_matrix.jpeg" -->
+
+Note:
+A database stores data, it doesnt care which type. In our times databases can be really, really big.
+---
+
+## [Capta](https://www.researchgate.net/profile/C_Hinton/publication/42789107_Introducing_information_management_the_business_approach/links/548876d60cf289302e30af94.pdf#page=56) 
+not
+### data
+
+Note:
+Data are a starting point in our mental processing. Capta are the
+result of selecting some for attention, or creating some new category –
+such as ‘the number of redheaded academics living alone in Grunerløkka’ – or being so surprised by some items of data which pass across our gaze that we begin to pay them attention. 
+
+
+
+
+---
+<!-- .slide: source data-background="http://vignette2.wikia.nocookie.net/starwars/images/7/7b/Starkiller_firing.png" -->
+
+<iframe data-src="//giphy.com/embed/2JA0YPswSWXkI" width="900" height="660" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/blog-map-social-2JA0YPswSWXkI">via GIPHY</a></p>
+
+Note:
+Power is usually visible and more documented. Mapping resistance can be harder and less available.
+
+Minorities are easily made invisible in maps.
 ---
 
 <!-- .slide: source data-background="http://i.giphy.com/j6iyD03LaUNuU.gif" data-background-transition="zoom" data-transition="zoom" -->
@@ -563,8 +570,7 @@ Openlayers
 
 ---
 
-See the [this explanation](http://openlayers.org/en/latest/doc/quickstart.html) of what's going on.
-
+Make your own map. 	See the [explanation](http://openlayers.org/en/latest/doc/quickstart.html)
 
 <iframe height='650' scrolling='no' src='//codepen.io/lassegs/embed/yavPvX/?height=652&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'></iframe>
 
