@@ -222,7 +222,7 @@ Norge var tidlig på ARPAnet, da vi hadde seismiske stasjoner for måling av ato
 
 ### Alternative view
 
-A whole fucking bunch of map based software by the 2000s.
+A whole bunch of map based software by the 2000s.
 
 ---
 
@@ -285,9 +285,16 @@ Open, visualize, analyse and store
 
 This can be replicated!
 
+
+Note:
+RMS was never afraid to admit that much of the GNU toolkit was imitation. imitation is often innovation. he it is done for a higher purpose, giving users freedom
+
 ---
 The free as in freedom Geographical Information System
 ## [QGIS](www.qgis.org)
+
+Note:
+seriously, if you haven't downloaded it yet, just go do it. mac windows and linux
 
 ---
 <!-- .slide: source data-background="https://qgis2015.files.wordpress.com/2015/02/1k0a4924.jpg" -->
@@ -300,6 +307,14 @@ The free as in freedom Geographical Information System
 <div>
 
 [QGIS 2015 Nødebo](http://demo.qgis.org/demos/2015/index.html).
+
+Note:
+the annual developers conference of qf
+ggis 2015. 
+like hammer, you cant really build spaceships without them. academically it's still a good idea to introduce students to desktop GIS. i question for how long we should focus on it though. 
+
+soon, with the next generation of web GIS like turf, the desktop can be completely passe.
+
 ---
 ![wakepop](Wake_Pop_density_2.png)
 
@@ -313,7 +328,7 @@ The free as in freedom Geographical Information System
 - Connects to all kinds of databases
  * Excellent PostGIS database support
 	
-- Fast: 64bit and multi core support.
+- Fast: 64bit and multi core support
 <small> * Why doesnt ArcGIS have this?</small>
 - Awesome plugin system
 
@@ -350,7 +365,7 @@ Basic stuff like colorpicking is important for cartographers, since we deal with
 <!-- .slide: source data-background="http://bturn.com/wp-content/uploads/2011/11/darth-vader-face.jpeg" -->
 
 
-> ## "Luke, you were made in my image"
+> ## "Eg er far din"
 
 ---
 
