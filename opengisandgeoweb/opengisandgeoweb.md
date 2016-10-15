@@ -601,15 +601,6 @@ Both leaflet and openlayers depend on this logic: A "map" div places a map eleme
 ```
 ---
 
-<iframe src="http://kart.gulesider.no/m/o7cvq?embed=true&center=59.90513377927512,10.75&zoom=14&layer=map" width="100%" height="600" frameborder="0" style="border:0"></iframe>
-
-Note:
-Leaflet
-
-curl -s -I gulesider.no | grep Server
-Apache
-
----
 
 <iframe data-src="https://darksky.net/25.7743,-80.1937#map-container" width="100%" height="700px" frameBorder="0" ></iframe>
 
@@ -625,14 +616,17 @@ Observations going back decades.
 
 ### Turf.js
 
-Turf.js enables client side geoprocessing by a javascript library for spatial analysis.
-Geoprocessing is a large part of GIS:
+Enables client side geoprocessing by a javascript library for spatial analysis.
+
+
+#### Geoprocessing is a large part of GIS:
+
 * Calculates area and distance
  * "nearest coffee shop"
 * Joining points to polygons
  * "count coffee shops in 1km radius" 
 
-Check out http://turfjs.org/
+<p style="text-align:right">Check out http://turfjs.org/</p>
 
 ---
 Make your own map. See the [explanation](http://openlayers.org/en/latest/doc/quickstart.html)
@@ -650,8 +644,8 @@ and you have a map running at
 ####  http://folk.uio.no/yourusername/
 
 ---
-
-IPFS and smart contracts
+Future:
+### [IPFS](https://ipfs.io/) and [smart contracts](https://en.wikipedia.org/wiki/Smart_contract)?
 
 ---
 ## Tools
