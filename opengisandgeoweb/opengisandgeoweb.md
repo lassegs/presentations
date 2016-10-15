@@ -107,6 +107,9 @@ So be fully aware that while I try to offer you shoulders to stand on and see fu
 Note:
 How long it will last, basic structure. Again baroque.
 
+Please feel free to interrupt me as we go, then it will seem less like just ranting to myself.
+I hope I've managed to strike a balance between a generic overview and a in depth technical presentation, because some of this is advanced computer stuff, while at the same time I dont want to alienate those of you in the audience who have never programmed before.
+
 
 ---
 
@@ -195,19 +198,21 @@ Note:
 There are many who don't see free software as a critique of the production process of what is. 
 That is fine. This god has many faces, and fits into many narratives.
 
+There are reasons why I can say that free software is political and not be afraid to scare you off. The number one reason is that it is a very effective method of production. You are all heavy users of free software right now, either if you like it or not. In your toasters, in airplanes, trafic control systems and waterworks, youre reproduction, mobility and fancies are all supported by the infrastructre around you, that is increasingly based on free software. 
+
 
 ---
 
 
 <!-- .slide: data-background-color="#000" -->
 
-* 1960s - [CGIS](https://en.wikipedia.org/wiki/Canada_Geographic_Information_System). Rare computers.
-* 1970s - Academics and pioneers. GRASS. Not so rare anymore. 
-* 1980s - Spatial database breakthroughs and PCs. Diversification.
-* 1990s - Mapinfo. Don't forget how you found this out - 1998 [google](https://scholar.google.com/scholar?q=history+of+gis+filetype%3Apdf&btnG=&hl=en&as_sdt=0%2C47).
-* 2000s - ESRI, QGIS, Web 1.0 -> Web 2.0.
-* 2010s - Web 2.0 maps.
-* 2020s - 
+* 1960s - [CGIS](https://en.wikipedia.org/wiki/Canada_Geographic_Information_System). Academic and military use. Rare computers.
+* 1970s - Academic and technological pioneers. Not so rare anymore. 
+* 1980s - [GRASS GIS](https://grass.osgeo.org/). Spatial database breakthroughs and PCs. Commercialization.
+* 1990s - Mapinfo. GPL. More geospatial algorithms. 1998 [google](https://scholar.google.com/scholar?q=history+of+gis+filetype%3Apdf&btnG=&hl=en&as_sdt=0%2C47).
+* 2000s - ESRI 35 % of GIS market share. 2004: Google Maps and Open Street map.
+* 2010s - ESRI 40 % of GIS market. Web is blossoming.
+* 2020s -
 
 Note:
 Canadian grandmaster Roger Tomlinson / IBM --> geogratis
@@ -226,8 +231,10 @@ A whole fucking bunch of map based software by the 2000s.
 
 ---
 
-### ArcGIS is just another GIS. 
+### ArcGIS *is* GIS. 
 
+Note:
+Important for building up 
 ---
 
 <p>
@@ -267,7 +274,7 @@ Open, visualize, analyse and store
   * Styles
   * Handles user interface
 ---
- ## Analyses
+ ## Analysis / geoprocessing 
  * Measurements and overlays
  * Spatial correlation (Moran's I, etc.)
  * Spatial regression 
@@ -350,7 +357,10 @@ Basic stuff like colorpicking is important for cartographers, since we deal with
 <!-- .slide: source data-background="http://bturn.com/wp-content/uploads/2011/11/darth-vader-face.jpeg" -->
 
 
-> ## "Luke, you were made in my image"
+> ## Made in his image
+
+Note:
+Problematize gender
 
 ---
 
@@ -362,7 +372,7 @@ Basic stuff like colorpicking is important for cartographers, since we deal with
 * Strong user/developer divide
 
 Note:
-Omnious desktop fucking metaphor, the violent real abstraction of the desktop.
+The omnious, fucking desktop metaphor and the violent real abstraction of the desktop.
 
 ---
 
@@ -445,14 +455,16 @@ Now its time for
 Note:
 Social scientists should heed his warning. What does it mean though? Can inforamtics be understood as applied social science for engineers, designers and builders? 
 
-I'm not saying that 
----
+I'm not saying that everyone needs to be a coder, but a complete lack of digital literacy is nothing to brag about. So if you started University to avoid Excel, good for you, Libreoffice Calc can get boring too, although, it's made with your freedoms in mind. Science is work.
 
 ---
 
 
 
-A quick walk through of the **big 3** of **W3**
+A quick walk through of the 
+## big 3 
+of 
+# W3
 
 ---
 ## HTML
@@ -493,22 +505,39 @@ Javascript lets us control and change the web site after it has loaded.
 
 ---
 
-The **free** as in **freedom** geoweb stack
+Standardization takes work and time.
+<iframe data-src="//giphy.com/embed/fmGzSnhk5IwX6" width="680" height="460" frameBorder="0" class="giphy-embed" allowFullScreen></iframe
+
+---
+
+The **free** as in **freedom** 
+### geoweb stack
 
 ---
 
 ![anatomy2](http://maptime.io/anatomy-of-a-web-map/images/basemap-datalayers-05.png)
 
 ---
-Tiles, tiles everywhere!
+
+![anatomy](http://maptime.io/anatomy-of-a-web-map/images/anatomy-of-a-web-map.png)
+
+
+---
+
+## Tiles, tiles everywhere!
 
 
 
-<iframe data-src="https://www.google.com/maps/embed/v1/place?q=oslo&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU" width="100%" height="630" frameBorder="0" allowFullScreen></iframe>
+<iframe data-src="https://leaflet-extras.github.io/leaflet-providers/preview/" width="100%" height="630" frameBorder="0" allowFullScreen></iframe>
 
 ---
 
 ## Tile server
+
+Note:
+Throws square bitmaps at the client for each zoom level.
+
+Not the case for vector layers. Tiles since 2005 till, transition to vector happening now. While vector is powerful, experience from other fields predicts a continued use for bitmap and vectors. 
 
 ---
 
@@ -553,10 +582,6 @@ Both leaflet and openlayers depend on this logic: A "map" div places a map eleme
 ```
 ---
 
-![anatomy](http://maptime.io/anatomy-of-a-web-map/images/anatomy-of-a-web-map.png)
-
----
-
 <iframe src="http://kart.gulesider.no/m/o7cvq?embed=true&center=59.90513377927512,10.75&zoom=14&layer=map" width="100%" height="600" frameborder="0" style="border:0"></iframe>
 
 Note:
@@ -572,17 +597,26 @@ Apache
 Note:
 Openlayers
 
+Some fun with tilesets. 
 Hourly and daily forecasts for the next week.
 Minute-by-minute “hyperlocal” rain forecasts.
-Governmental severe weather alerts.
- 
 Observations going back decades.
-Dozens of languages and measurement units.
-Easy to understand documentation.
 
 ---
 
-Make your own map. 	See the [explanation](http://openlayers.org/en/latest/doc/quickstart.html)
+### Turf.js
+
+Turf.js enables client side geoprocessing by a javascript library for spatial analysis.
+Geoprocessing is a large part of GIS:
+* Calculates area and distance
+ * "nearest coffee shop"
+* Joining points to polygons
+ * "count coffee shops in 1km radius" 
+
+Check out http://turfjs.org/
+
+---
+Make your own map. See the [explanation](http://openlayers.org/en/latest/doc/quickstart.html)
 
 <iframe height='650' scrolling='no' src='//codepen.io/lassegs/embed/yavPvX/?height=652&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'></iframe>
 
@@ -590,17 +624,15 @@ Note:
 https://codepen.io/lassegs/pen/yavPvX
 Make your own
 ---
-Inspirational web maps
-Check also 
-https://cartahistorica.muhba.cat/index.html?lang=en
 
+Copypasta the code from the previous slide into your 
+#### M:/www_docs/index.html 
+and you have a map running at
+####  http://folk.uio.no/yourusername/
 
-Note:
-Openlayers
 ---
 
-
-2020s - IPFS and smart contracts
+IPFS and smart contracts
 
 ---
 ## Tools
