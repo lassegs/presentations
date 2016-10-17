@@ -644,8 +644,38 @@ and you have a map running at
 ####  http://folk.uio.no/yourusername/
 
 ---
-Future:
-### [IPFS](https://ipfs.io/) and [smart contracts](https://en.wikipedia.org/wiki/Smart_contract)?
+
+Spaces of Free Software
+
+---
+
+##  Hackerspaces
+
+* [Hackeriet](hackeriet.no)
+* [Bitraf](bitraf.no)
+* [UiO's Åpen Sone](http://sonen.ifi.uio.no/)
+
+---
+
+![maptime](http://maptime.io/img/sprite@2x.png)
+
+* Today 18:00 @ Bitraf.
+* [Event info & Registration](https://www.meetup.com/MaptimeOSL/events/234826532/)
+* Free pizzas. 
+
+Noobs are very welcome. Bring your laptop! 
+
+---
+
+![hack4](http://www.hack4.no/images/logoen.png)
+
+[#hack4.no](hack4.no) is an interface between hackers, state and publics.
+
+* Student day October 26th.
+* Meet Norwegian data owners
+* Get help for student project
+* Free
+
 
 ---
 ## Tools
@@ -661,6 +691,13 @@ Future:
 * http://systemapic.com/ - Innovative UiO based beta, for sharing and publishing geodata on and to the web
 
 more at http://blokk.lassegs.org
+---
+
+
+
+Future:
+### [IPFS](https://ipfs.io/) and [smart contracts](https://en.wikipedia.org/wiki/Smart_contract)?
+
 ---
 
 ## credits, inspirations and resources
