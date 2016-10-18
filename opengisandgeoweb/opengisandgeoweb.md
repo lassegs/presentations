@@ -195,23 +195,37 @@ Chthulucene is a another deep kind of ecological argument. All of these are link
 # Free software
 
 Note: 
+The uncompiled code of the software and it’s
+documentation is shared.
+Alternative license GNU/GPL (+ others).
+Can be studied, shared, copied, and modified.
+COPYLEFT
+FOSS4G – Free Open Source Software 4 Geo-
+informatics
+
+
+
 There are many who don't see free software as a critique of the production process of what is. 
 That is fine. This god has many faces, and fits into many narratives.
 
 There are reasons why I can say that free software is political and not be afraid to scare you off. The number one reason is that it is a very effective method of production. You are all heavy users of free software right now, either if you like it or not. In your toasters, in airplanes, trafic control systems and waterworks, youre reproduction, mobility and fancies are all supported by the infrastructre around you, that is increasingly based on free software. 
-
+The second reason is that I think it is a correct political understanding of our times. Information as hard properties to sell and own in a market creates suboptimal distribution of information. 
 
 ---
 
+# FOSS4G
+
+---
 
 <!-- .slide: data-background-color="#000" -->
+A step back
 
 * 1960s - [CGIS](https://en.wikipedia.org/wiki/Canada_Geographic_Information_System). Academic and military use. Rare computers.
 * 1970s - Academic and technological pioneers. Not so rare anymore. 
 * 1980s - [GRASS GIS](https://grass.osgeo.org/). Spatial database breakthroughs and PCs. Commercialization.
-* 1990s - Mapinfo. GPL. More geospatial algorithms. 1998 [google](https://scholar.google.com/scholar?q=history+of+gis+filetype%3Apdf&btnG=&hl=en&as_sdt=0%2C47).
+* 1990s - [Mapinfo](https://en.wikipedia.org/wiki/MapInfo_Professional). [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License). More geospatial algorithms. 1998 [google](https://scholar.google.com/scholar?q=history+of+gis+filetype%3Apdf&btnG=&hl=en&as_sdt=0%2C47).
 * 2000s - ESRI 35 % of GIS market share. 2004: Google Maps and Open Street map.
-* 2010s - ESRI 40 % of GIS market. Web is blossoming.
+* 2010s - ESRI 40 % of GIS market. Webmapping is blossoming.
 * 2020s -
 
 Note:
@@ -219,6 +233,8 @@ Canadian grandmaster Roger Tomlinson / IBM --> geogratis
 GRASS is freely available, and very usable together with QGIS.
 
 1980s saw the breakthrough of 
+
+Google is important. Both for what it means to research and what maps mean.
 
 Norge var tidlig på ARPAnet, da vi hadde seismiske stasjoner for måling av atombombesprenginger i grunnfjellet som også Sovjet er geografisk plassert på.
 
@@ -231,17 +247,21 @@ A whole bunch of map based software by the 2000s.
 
 ---
 
-### ArcGIS *is* GIS. 
+### ArcMap *is* GIS. 
 
 Note:
-Important for building up 
+ESRI has been a big player for a long time and has come to define what desktop GIS means in a big way.
+
+
+Important for building up fatherhood revelation.
+
 ---
 
 <p>
 <iframe data-src="//giphy.com/embed/Gt0zE0HOMkTCg" width="400" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </p>
 
-What exactly is it ArcGIS does?
+What exactly is it ArcMap does?
 
 * What?
 * How?
@@ -256,7 +276,7 @@ but you'll have to overcome my shortcomings.
 
 ---
 
-Open, visualize, analyse and store
+Open, visualize, geoprocesses and store
 
 * ##~~What?~~
 <small> * Big, bad question</small>
@@ -274,7 +294,7 @@ Open, visualize, analyse and store
   * Styles
   * Handles user interface
 ---
- ## Analysis / geoprocessing 
+ ## Geoprocesses
  * Measurements and overlays
  * Spatial correlation (Moran's I, etc.)
  * Spatial regression 
@@ -294,14 +314,20 @@ This can be replicated!
 
 
 Note:
-RMS was never afraid to admit that much of the GNU toolkit was imitation. imitation is often innovation. he it is done for a higher purpose, giving users freedom
+These are extremely powerful tools, crucial for everything from how you make the roads, to how postal services deliver mail and how the internet is actually tubed ;) 
+
+
+RMS was never afraid to admit that much of the GNU toolkit was imitation. While imitation is often good innovation, he said it is done for a higher purpose. Giving users freedom, more important than giving them the 'latest and greatest'
+
+*So, what freedom?*
+
 
 ---
 The free as in freedom Geographical Information System
 ## [QGIS](www.qgis.org)
 
 Note:
-seriously, if you haven't downloaded it yet, just go do it. mac windows and linux
+mac windows and linux. Free. seriously, if you haven't downloaded it yet, just go do it.  Aquire a personal skill. It is nice for mapping.
 
 ---
 <!-- .slide: source data-background="https://qgis2015.files.wordpress.com/2015/02/1k0a4924.jpg" -->
@@ -316,10 +342,8 @@ seriously, if you haven't downloaded it yet, just go do it. mac windows and linu
 [QGIS 2015 Nødebo](http://demo.qgis.org/demos/2015/index.html).
 
 Note:
-the annual developers conference of qf
-ggis 2015. 
+the annual developers conference of ggis 2015. 
 like hammer, you cant really build spaceships without them. academically it's still a good idea to introduce students to desktop GIS. i question for how long we should focus on it though. 
-
 soon, with the next generation of web GIS like turf, the desktop can be completely passe.
 
 ---
@@ -333,10 +357,10 @@ soon, with the next generation of web GIS like turf, the desktop can be complete
    * .sosi  	<small>*maintained by the Norwegian Mapping Authority (Kartverket)</small>
  
 - Connects to all kinds of databases
- * Excellent PostGIS database support
+ * Excellent [PostGIS database](http://www.postgis.net/) support
 	
 - Fast: 64bit and multi core support
-<small> * Why doesnt ArcGIS have this?</small>
+<small> * Why doesn't ArcMap have this?</small>
 - Awesome plugin system
 
 Note:
@@ -359,27 +383,31 @@ When you only need one or two clicks in QGIS, you need to open 3 dialogs and cli
 ![colorpicker](https://gisunchained.files.wordpress.com/2016/01/anim.gif)
 
 Note:
-Basic stuff like colorpicking is important for cartographers, since we deal with esthetics. 
+Basic stuff like colorpicking is important for cartographers. When you graph, you are in colorspace already. Esthetics of a map... 
 
 ---
 
 ###The bad
 
-* Does not handle ArcGIS project file .mxd 
-* Lacks many of the advanced geoprocessing algorithms ArcGIS has.<small>*is catching up.</small>
+* Does not handle ArcMap project file .mxd 
+* Lacks many of the advanced geoprocessing algorithms ArcMap has.<small>*is catching up.</small>
 ---
 
 <!-- .slide: source data-background="http://bturn.com/wp-content/uploads/2011/11/darth-vader-face.jpeg" -->
 
 
-<<<<<<< HEAD
-> ## Made in his image
 
-Note:
-Problematize gender
-=======
+ ## Made in his image
+
+
+Desktop - Bureaucracy.
+Capital - Don't have job? Dont map.
+Gender - Gender gap. How do IFI students feel about it? It sucks.
+
+---
+
 > ## "Eg er far din"
->>>>>>> 1da8d488f0d457fb8bc568299e1d6d63e658ccca
+
 
 ---
 
@@ -466,6 +494,7 @@ Now its time for
 "In the computer age, code is law."
 <p style="font-size: .7em; text-align: right">Lawrence Lessig</p>
 
+M
 
 ---
 
@@ -477,8 +506,17 @@ Social scientists should heed his warning. What does it mean though? Can inforam
 I'm not saying that everyone needs to be a coder, but a complete lack of digital literacy is nothing to brag about. So if you started University to avoid Excel, good for you, Libreoffice Calc can get boring too, although, it's made with your freedoms in mind. Science is work.
 
 ---
+Free software gives you four essential freedoms ([gnu.org](https://www.gnu.org/philosophy/free-sw.en.html): 
 
+* The freedom to run the program as you wish, for any purpose (freedom 0).
+* The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1).
+* The freedom to redistribute copies so you can help your neighbor (freedom 2).
+* The freedom to distribute copies of your modified versions to others (freedom 3). 
 
+Note:
+By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+ 
+---
 
 A quick walk through of the 
 ## big 3 
