@@ -211,13 +211,18 @@ That is fine. This god has many faces, and fits into many narratives.
 There are reasons why I can say that free software is political and not be afraid to scare you off. The number one reason is that it is a very effective method of production. You are all heavy users of free software right now, either if you like it or not. In your toasters, in airplanes, trafic control systems and waterworks, youre reproduction, mobility and fancies are all supported by the infrastructre around you, that is increasingly based on free software. 
 The second reason is that I think it is a correct political understanding of our times. Information as hard properties to sell and own in a market creates suboptimal distribution of information. 
 
+
 ---
+
 
 # FOSS4G
 
+
 ---
 
+
 <!-- .slide: data-background-color="#000" -->
+
 A step back
 
 * 1960s - [CGIS](https://en.wikipedia.org/wiki/Canada_Geographic_Information_System). Academic and military use. Rare computers.
@@ -241,13 +246,17 @@ Norge var tidlig på ARPAnet, da vi hadde seismiske stasjoner for måling av ato
 
 ---
 
+
 ### Alternative view
 
 A whole bunch of map based software by the 2000s.
 
+
 ---
 
+
 ### ArcMap *is* GIS. 
+
 
 Note:
 ESRI has been a big player for a long time and has come to define what desktop GIS means in a big way.
@@ -285,24 +294,33 @@ Open, visualize, geoprocesses and store
 ---
 
  ##Opens a spatial database
+
   * Connects through storage or network
   * Recognizes and indexes information
-  * Loads up relevant data from storage to RAM (working memory)
+  * Loads up relevant data from storage to working memory
+
 ---
+
  ##Visualizes 
+
   * Coordinates and layers
   * Styles
   * Handles user interface
+
 ---
+
  ## Geoprocesses
+
  * Measurements and overlays
  * Spatial correlation (Moran's I, etc.)
  * Spatial regression 
  * Network analysis
  * MANY MANY MORE
+
 ---
 
  ## Stores
+
  * To image
  * As file locally
  * To database remotely
