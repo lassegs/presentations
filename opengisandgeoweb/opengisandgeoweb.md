@@ -324,7 +324,7 @@ RMS was never afraid to admit that much of the GNU toolkit was imitation. While 
 
 ---
 The free as in freedom Geographical Information System
-## [QGIS](www.qgis.org)
+## [QGIS](//qgis.org)
 
 Note:
 mac windows and linux. Free. seriously, if you haven't downloaded it yet, just go do it.  Aquire a personal skill. It is nice for mapping.
