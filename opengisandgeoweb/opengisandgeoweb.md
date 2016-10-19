@@ -408,6 +408,8 @@ Gender - Gender gap. How do IFI students feel about it? It sucks.
 
 > ## "Eg er far din"
 
+Note:
+The patriarchal aspects of mapping carries on into the the open source world. while women are more active on social networks, volunteering geotagged information, they are less likely to map that information. To say it with Haraway: It matters who's knowledge knowledges knowledges, whos worlds world worlds. Check out 
 
 ---
 
@@ -436,7 +438,7 @@ Ok, so it opens, visualizes, analyzes, stores what?
 <!-- .slide: source data-background="https://upload.wikimedia.org/wikipedia/commons/0/05/Efecto_matrix.jpeg" -->
 
 Note:
-A database stores data, it doesnt care which type. In our times databases can be really, really big.
+A database stores data, it doesnt care which type. In our times databases can be really, really big. Everything gives off data. Volunteered geographic information isn't always volunteered.  
 ---
 
 ## [Capta](https://www.researchgate.net/profile/C_Hinton/publication/42789107_Introducing_information_management_the_business_approach/links/548876d60cf289302e30af94.pdf#page=56) 
@@ -667,9 +669,9 @@ Enables client side geoprocessing by a javascript library for spatial analysis.
 <p style="text-align:right">Check out http://turfjs.org/</p>
 
 ---
-Make your own map. See the [explanation](http://openlayers.org/en/latest/doc/quickstart.html)
+Make your own map. See the [explanation](https://drive.google.com/file/d/0B2z1H3jfeswRNGpiTW5nNGVmMG8/view)
 
-<iframe height='650' scrolling='no' src='//codepen.io/lassegs/embed/yavPvX/?height=652&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'></iframe>
+<iframe height='650' scrolling='no' src='//codepen.io/lassegs/embed/Egdqxa/?height=652&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'></iframe>
 
 Note:
 https://codepen.io/lassegs/pen/yavPvX
@@ -678,7 +680,8 @@ Make your own
 
 Copypasta the code from the previous slide into your 
 #### M:/www_docs/index.html 
-and you have a map running at
+set permissions to read for everyone
+and you'll have a map running at
 ####  http://folk.uio.no/yourusername/
 
 ---
