@@ -195,14 +195,7 @@ Chthulucene is a another deep kind of ecological argument. All of these are link
 # Free software
 
 Note: 
-The uncompiled code of the software and it’s
-documentation is shared.
-Alternative license GNU/GPL (+ others).
-Can be studied, shared, copied, and modified.
-COPYLEFT
-FOSS4G – Free Open Source Software 4 Geo-
-informatics
-
+The uncompiled code and documentation is shared. GNU/GPL (+ others), COPYLEFT. Can be studied, shared and refined.
 
 
 There are many who don't see free software as a critique of the production process of what is. 
@@ -237,7 +230,6 @@ Note:
 Canadian grandmaster Roger Tomlinson / IBM --> geogratis
 GRASS is freely available, and very usable together with QGIS.
 
-1980s saw the breakthrough of 
 
 Google is important. Both for what it means to research and what maps mean.
 
@@ -439,7 +431,7 @@ The patriarchal aspects of mapping carries on into the the open source world. wh
 * Strong user/developer divide
 
 Note:
-The omnious, fucking desktop metaphor and the violent real abstraction of the desktop.
+The omnious, fucking desktop metaphor as part of the violent real abstraction of the desktop.
 
 ---
 
