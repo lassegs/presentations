@@ -1,4 +1,12 @@
 # Holon
+Blockchanging society
+
+- *Date* 
+- *Place*
+
+---
+
+
 
 ---
 
