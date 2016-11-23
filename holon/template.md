@@ -1,29 +1,4 @@
 
-title: Holon
-separator: <!--s-->
-verticalSeparator: <!--v-->
-
-
----
-Foo
-
-Note: test note
-
-<!--s-->
-
-Bar
-
-<!--v-->
-
-Sub Bar 
-
-* Frag 1 <!-- .element: class="fragment" -->
-* Frag 2 <!-- .element: class="fragment" -->
-
-<!--s-->
-
-The End.
-
 
 # Holon
 Blockchanging society
@@ -33,7 +8,8 @@ Blockchanging society
 
 ---
 
-![sociological perspectives](http://www.ecologyandsociety.org/vol15/iss1/art11/figure1.jpg)
+![sociological perspectives](img/figure1.jpg)
+(http://ecologyandsociety.org)
 
 ----
 
