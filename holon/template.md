@@ -6,7 +6,7 @@ Blockchanging society
 
 ---
 
-
+![sociological perspectives](http://www.ecologyandsociety.org/vol15/iss1/art11/figure1.jpg)
 
 ---
 
