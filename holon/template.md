@@ -1,5 +1,5 @@
----
-title: Foobar
+
+title: Holon
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: css/theme/solarized.css
