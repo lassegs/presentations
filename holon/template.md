@@ -1,9 +1,4 @@
 
-title: Holon
-separator: <!--s-->
-verticalSeparator: <!--v-->
-theme: css/theme/solarized.css
----
 Foo
 
 Note: test note
