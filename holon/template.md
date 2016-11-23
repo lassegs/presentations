@@ -1,11 +1,17 @@
 
+title: Holon
+separator: <!--s-->
+verticalSeparator: <!--v-->
+
+
+---
 Foo
 
 Note: test note
 
 <!--s-->
 
-# Bar
+Bar
 
 <!--v-->
 
