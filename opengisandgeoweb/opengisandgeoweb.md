@@ -12,22 +12,22 @@ to
 
 
 ---
-A presentation to the tune of the [Cantina theme](https://www.youtube.com/watch?v=kCGPt3XFxJk). 
+A presentation to the tune of the [Cantina theme](https://www.youtube.com/watch?v=kCGPt3XFxJk).
 
 This is the story of GIS and web maps from a free software praxis perspective. The set up borrows some elements Star Wars, for the lulz.
 
-+ 10:15 Story time
-+ 11:00 Recess
-+ 11:15 Story time
-+ 11:35 Discussion
-+ 12:00 Release
++ 12:15 Story time
++ 13:00 Recess
++ 13:15 Story time
++ 13:35 Discussion
++ 14:00 Release
 
 Note:
-Open Source is model of development, free software is political. 
+Open Source is model of development, free software is political.
 We find ourselves under the rule of Empire.
 We'll meet an animal that looks funny, but is shown to be a great teacher.
 In the face of darkness, we discover our own great powers.
-Some paternal bonds are revealed. 
+Some paternal bonds are revealed.
 
 ---
 
@@ -46,7 +46,7 @@ In a galaxy not so far away, neither in time nor space...
  I describe the early rise and eventual stagnation of Unix,
  the new hope from  Finland, and how *the last true hacker*
  became the next generation's patriarch. I sketch the way Linux
- and the mainstreaming of the Internet brought the hacker culture 
+ and the mainstreaming of the Internet brought the hacker culture
  from the fringes of public consciousness to its current prominence.
 
 
@@ -55,7 +55,7 @@ In a galaxy not so far away, neither in time nor space...
 <div align="right">by ESR from [Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/hacker-history/index.html#id2763962)</div>
 
 Note:
-What do I want to show with this? 
+What do I want to show with this?
 Hacker culture is old, and lineages can be traced all the way to the beginning.
 It is so old that even the meta level of hackery is old: The hackers' Jargon File can be traced back to a text file
 that was circulated on ARPAnet in 1975, but some words are as old as the early 60s. This file contains the definitions of hacker words, it is a dictionary, and
@@ -73,7 +73,7 @@ Hackers insist that they should not be confused with computer criminals. As RMS 
 ---
 <!-- .slide: data-background-color="#000" -->
 A tour down the rabbit hole of science in the digital age
- 
+
 <iframe data-src="//giphy.com/embed/y55tOswHWvBxC" width="680" height="460" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Note:
@@ -82,17 +82,15 @@ Note:
 why should you go down this rabbit hole.
 A history of digital mapping. One that tries to lay out a map of mapping, considering
 our current situation. A given here is Bacon's statement that 'knowledge is power'.
-When we create maps, make visualizations, or even just present, we are in fact creating new worlds. 
+When we create maps, make visualizations, or even just present, we are in fact creating new worlds.
 
 So be fully aware that while I try to offer you shoulders to stand on and see further, this is a 'baroque' piece, crammed with details. The presentation shouldn't really be held without ensuring URL distribution. You will also be subjected to my shortcomings, oversights and misunderstandings.
 
 
 ---
 
-...and our complex webs and layers of [infrastructure](http://pubsonline.informs.org/doi/abs/10.1287/isre.7.1.111)...
 
-
-<iframe data-src="https://map.norsecorp.com/" width="100%" height="768px" frameBorder="0" ></iframe>
+<iframe data-src="https://cybermap.kaspersky.com/" width="100%" height="768px" frameBorder="0" ></iframe>
 
 
 ---
@@ -117,7 +115,7 @@ I hope I've managed to strike a balance between a generic overview and a in dept
 <iframe data-src="//giphy.com/embed/8jdQ5engCKyQM" width="680" height="460" frameBorder="0" class="giphy-embed" allowFullScreen></iframe
 
 Note:
-the resistance 
+the resistance
 
 ---
 
@@ -137,14 +135,14 @@ the resistance
 Note:
 the weird animal that turns out to be a powerful teacher.. RMS or the penguin? No, its obviously the GNU.
 
-Before next slide, remind about perspective, story telling and choice of technologies affects worldview. 
+Before next slide, remind about perspective, story telling and choice of technologies affects worldview.
 
 ---
 
 <!-- .slide: source data-background="http://bturn.com/wp-content/uploads/2011/11/darth-vader-face.jpeg" -->
 ### ESRI,
 
-Note: 
+Note:
 the guards of the Empire
 
 ---
@@ -155,7 +153,7 @@ the guards of the Empire
 ###Empire
 
 
-Note: 
+Note:
 A great evil
 ---
 
@@ -172,17 +170,17 @@ A great evil
 <!-- .slide: source data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/2011_Horn_of_Africa_famine_Oxfam_01.jpg/800px-2011_Horn_of_Africa_famine_Oxfam_01.jpg" -->
 
 ### [Anthropocene](http://www.igbp.net/download/18.316f18321323470177580001401/1376383088452/NL41.pdf) / [Manthropocene](https://www.theguardian.com/commentisfree/2014/oct/20/anthropocene-working-group-science-gender-bias) / [Capitalocene](http://www.jasonwmoore.com/uploads/The_Capitalocene__Part_I__June_2014.pdf) / [Chthulucene](http://www.e-flux.com/journal/75/67125/tentacular-thinking-anthropocene-capitalocene-chthulucene/)
- 
 
-Note: 
-A scenic perspective has taken hold of our social narrative. The discussion is which one? 
+
+Note:
+A scenic perspective has taken hold of our social narrative. The discussion is which one?
 
 Anthropocene theorists (like chakrabarty 2009) contends that Humans now act with the power of geophysical forces, like tectonic plates or volcanoes, as the geological agent.
 Manthropocene was originally a twitter complaint about the Anthropocene scientist working group consisted of "top scientists, climatologists, etc.", and all but one, Men. At the same time it grabs something deeper. Is anthropos really who created this mess, just a flat unqualified Human? Should we make the domination of men over women as Or should the Anthropos be gendered?
 
 Hold on, says the capitalocene-people. The anthropos shouldnt only be qualified by gender, but also by class. Our current ecological crisis has been generated by the logic of capitalist society, where all is divided into Human or Nature (with big H and N). Human here means those who have work, while Nature are both trees, waterfalls but also women, the "naturales", homeless, etc. All will be exploited in the process of capital accumulation, whereas only Humans (with a big H) are paid.   
 
-Chthulucene is a another deep kind of ecological argument. All of these are links. Read them if you wanna be updated. 
+Chthulucene is a another deep kind of ecological argument. All of these are links. Read them if you wanna be updated.
 
 
 ---
@@ -194,15 +192,15 @@ Chthulucene is a another deep kind of ecological argument. All of these are link
 
 # Free software
 
-Note: 
+Note:
 The uncompiled code and documentation is shared. GNU/GPL (+ others), COPYLEFT. Can be studied, shared and refined.
 
 
-There are many who don't see free software as a critique of the production process of what is. 
+There are many who don't see free software as a critique of the production process of what is.
 That is fine. This god has many faces, and fits into many narratives.
 
-There are reasons why I can say that free software is political and not be afraid to scare you off. The number one reason is that it is a very effective method of production. You are all heavy users of free software right now, either if you like it or not. In your toasters, in airplanes, trafic control systems and waterworks, youre reproduction, mobility and fancies are all supported by the infrastructre around you, that is increasingly based on free software. 
-The second reason is that I think it is a correct political understanding of our times. Information as hard properties to sell and own in a market creates suboptimal distribution of information. 
+There are reasons why I can say that free software is political and not be afraid to scare you off. The number one reason is that it is a very effective method of production. You are all heavy users of free software right now, either if you like it or not. In your toasters, in airplanes, trafic control systems and waterworks, youre reproduction, mobility and fancies are all supported by the infrastructre around you, that is increasingly based on free software.
+The second reason is that I think it is a correct political understanding of our times. Information as hard properties to sell and own in a market creates suboptimal distribution of information.
 
 
 ---
@@ -219,7 +217,7 @@ The second reason is that I think it is a correct political understanding of our
 A step back
 
 * 1960s - [CGIS](https://en.wikipedia.org/wiki/Canada_Geographic_Information_System). Academic and military use. Rare computers.
-* 1970s - Academic and technological pioneers. Not so rare anymore. 
+* 1970s - Academic and technological pioneers. Not so rare anymore.
 * 1980s - [GRASS GIS](https://grass.osgeo.org/). Spatial database breakthroughs and PCs. Commercialization.
 * 1990s - [Mapinfo](https://en.wikipedia.org/wiki/MapInfo_Professional). [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License). More geospatial algorithms. 1998 [google](https://scholar.google.com/scholar?q=history+of+gis+filetype%3Apdf&btnG=&hl=en&as_sdt=0%2C47).
 * 2000s - ESRI 35 % of GIS market share. 2004: Google Maps and Open Street map.
@@ -247,7 +245,7 @@ A whole bunch of map based software by the 2000s.
 ---
 
 
-### ArcMap *is* GIS. 
+### ArcMap *is* GIS.
 
 
 Note:
@@ -293,7 +291,7 @@ Open, visualize, geoprocesses and store
 
 ---
 
- ##Visualizes 
+ ##Visualizes
 
   * Coordinates and layers
   * Styles
@@ -305,7 +303,7 @@ Open, visualize, geoprocesses and store
 
  * Measurements and overlays
  * Spatial correlation (Moran's I, etc.)
- * Spatial regression 
+ * Spatial regression
  * Network analysis
  * MANY MANY MORE
 
@@ -316,7 +314,7 @@ Open, visualize, geoprocesses and store
  * To image
  * As file locally
  * To database remotely
- * As .pdf (to the printer)	
+ * As .pdf (to the printer)
 
 ---
 
@@ -324,7 +322,7 @@ This can be replicated!
 
 
 Note:
-These are extremely powerful tools, crucial for everything from how you make the roads, to how postal services deliver mail and how the internet is actually tubed ;) 
+These are extremely powerful tools, crucial for everything from how you make the roads, to how postal services deliver mail and how the internet is actually tubed ;)
 
 
 RMS was never afraid to admit that much of the GNU toolkit was imitation. While imitation is often good innovation, he said it is done for a higher purpose. Giving users freedom, more important than giving them the 'latest and greatest'
@@ -344,7 +342,7 @@ mac windows and linux. Free. seriously, if you haven't downloaded it yet, just g
 
 
 #### Tool of the trade, basic and advanced
- 
+
 <div style="background-color: rgba(255, 255, 255); background-color: rgba(	255, 255,	 255, .2);">
 ![Everyone loves QGIS](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/QGis_Logo.png/436px-QGis_Logo.png)
 <div>
@@ -352,8 +350,8 @@ mac windows and linux. Free. seriously, if you haven't downloaded it yet, just g
 [QGIS 2015 Nødebo](http://demo.qgis.org/demos/2015/index.html).
 
 Note:
-the annual developers conference of ggis 2015. 
-like hammer, you cant really build spaceships without them. academically it's still a good idea to introduce students to desktop GIS. i question for how long we should focus on it though. 
+the annual developers conference of ggis 2015.
+like hammer, you cant really build spaceships without them. academically it's still a good idea to introduce students to desktop GIS. i question for how long we should focus on it though.
 soon, with the next generation of web GIS like turf, the desktop can be completely passe.
 
 ---
@@ -363,18 +361,18 @@ soon, with the next generation of web GIS like turf, the desktop can be complete
 ###The good
 
 - Handles all types of files
- * .shp, .geojson, .csv, 
-   * .sosi  	<small>*maintained by the Norwegian Mapping Authority (Kartverket)</small>
- 
+ * .shp, .geojson, .csv,
+   * .sosi  	<small>*maintained by the Norwegian Mapping Authority (Kartverket)*</small>
+
 - Connects to all kinds of databases
  * Excellent [PostGIS database](http://www.postgis.net/) support
-	
+
 - Fast: 64bit and multi core support
 <small> * Why doesn't ArcMap have this?</small>
 - Awesome plugin system
 
 Note:
-Except 
+Except
 ---
 
 * Better dialogues
@@ -393,14 +391,15 @@ When you only need one or two clicks in QGIS, you need to open 3 dialogs and cli
 ![colorpicker](https://gisunchained.files.wordpress.com/2016/01/anim.gif)
 
 Note:
-Basic stuff like colorpicking is important for cartographers. When you graph, you are in colorspace already. Esthetics of a map... 
+Basic stuff like colorpicking is important for cartographers. When you graph, you are in colorspace already. Esthetics of a map...
 
 ---
 
 ###The bad
 
-* Does not handle ArcMap project file .mxd 
-* Lacks many of the advanced geoprocessing algorithms ArcMap has.<small>*is catching up.</small>
+* Does not handle ArcMap project file .mxd
+* Lacks many of the advanced geoprocessing algorithms ArcMap has.<small>*is catching up*.</small>
+
 ---
 
 <!-- .slide: source data-background="http://bturn.com/wp-content/uploads/2011/11/darth-vader-face.jpeg" -->
@@ -419,11 +418,11 @@ Gender - Gender gap. How do IFI students feel about it? It sucks.
 > ## "Eg er far din"
 
 Note:
-The patriarchal aspects of mapping carries on into the the open source world. while women are more active on social networks, volunteering geotagged information, they are less likely to map that information. To say it with Haraway: It matters who's knowledge knowledges knowledges, whos worlds world worlds. Check out 
+The patriarchal aspects of mapping carries on into the the open source world. while women are more active on social networks, volunteering geotagged information, they are less likely to map that information. To say it with Haraway: It matters who's knowledge knowledges knowledges, whos worlds world worlds.
 
 ---
 
-###Paradigm Weakness
+### Paradigm Weakness
 
 * Desktops, desktops everywhere.
 * Stiff maps
@@ -431,7 +430,7 @@ The patriarchal aspects of mapping carries on into the the open source world. wh
 * Strong user/developer divide
 
 Note:
-The omnious, fucking desktop metaphor as part of the violent real abstraction of the desktop.
+The omnious, fucking desktop metaphor as part of the violent real abstraction of life.
 
 ---
 
@@ -442,7 +441,7 @@ Ok, so it opens, visualizes, analyzes, stores what?
 
 ---
 <!-- .slide: source data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Battle_of_Bentonville_map.png/858px-Battle_of_Bentonville_map.png" -->
- 
+
 ---
 
 <!-- .slide: source data-background="https://upload.wikimedia.org/wikipedia/commons/0/05/Efecto_matrix.jpeg" -->
@@ -451,14 +450,14 @@ Note:
 A database stores data, it doesnt care which type. In our times databases can be really, really big. Everything gives off data. Volunteered geographic information isn't always volunteered.  
 ---
 
-## [Capta](https://www.researchgate.net/profile/C_Hinton/publication/42789107_Introducing_information_management_the_business_approach/links/548876d60cf289302e30af94.pdf#page=56) 
+## [Capta](https://www.researchgate.net/profile/C_Hinton/publication/42789107_Introducing_information_management_the_business_approach/links/548876d60cf289302e30af94.pdf#page=56)
 not
 ### data
 
 Note:
 Data are a starting point in our mental processing. Capta are the
 result of selecting some for attention, or creating some new category –
-such as ‘the number of redheaded academics living alone in Grunerløkka’ – or being so surprised by some items of data which pass across our gaze that we begin to pay them attention. 
+such as ‘the number of redheaded academics living alone in Grunerløkka’ – or being so surprised by some items of data which pass across our gaze that we begin to pay them attention.
 
 
 
@@ -481,13 +480,13 @@ Minorities are easily made invisible in maps.
 ---
 
 
-Web maps can be many things 
+Web maps can be many things
 <iframe data-src="https://www.gapminder.org/tools/?embedded=true#_chart-type=bubbles" width="100%" height="700px" frameBorder="0" ></iframe>
 
 
 ---
 
-For the next period, we'll be focusing on pure web maps and try to make one ourselves. 
+For the next period, we'll be focusing on pure web maps and try to make one ourselves.
 
 Now its time for
 #recess
@@ -513,26 +512,26 @@ Now its time for
 ![nope](http://www.reactiongifs.com/wp-content/gallery/no/john-cleese-no.gif)
 
 Note:
-Social scientists should heed his warning. What does it mean though? Can inforamtics be understood as applied social science for engineers, designers and builders? 
+Social scientists should heed his warning. What does it mean though? Can inforamtics be understood as applied social science for engineers, designers and builders?
 
 I'm not saying that everyone needs to be a coder, but a complete lack of digital literacy is nothing to brag about. So if you started University to avoid Excel, good for you, Libreoffice Calc can get boring too, although, it's made with your freedoms in mind. Science is work.
 
 ---
-Free software gives you four essential freedoms ([gnu.org](https://www.gnu.org/philosophy/free-sw.en.html): 
+Free software gives you four essential freedoms ([gnu.org](https://www.gnu.org/philosophy/free-sw.en.html):
 
 * The freedom to run the program as you wish, for any purpose (freedom 0).
 * The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1).
 * The freedom to redistribute copies so you can help your neighbor (freedom 2).
-* The freedom to distribute copies of your modified versions to others (freedom 3). 
+* The freedom to distribute copies of your modified versions to others (freedom 3).
 
 Note:
 By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
- 
+
 ---
 
-A quick walk through of the 
-## big 3 
-of 
+A quick walk through of the
+## big 3
+of
 # W3
 
 ---
@@ -579,7 +578,7 @@ Standardization takes work and time.
 
 ---
 
-The **free** as in **freedom** 
+The **free** as in **freedom**
 ### geoweb stack
 
 ---
@@ -606,7 +605,7 @@ The **free** as in **freedom**
 Note:
 Throws square bitmaps at the client for each zoom level.
 
-Not the case for vector layers. Tiles since 2005 till, transition to vector happening now. While vector is powerful, experience from other fields predicts a continued use for bitmap and vectors. 
+Not the case for vector layers. Tiles since 2005 till, transition to vector happening now. While vector is powerful, experience from other fields predicts a continued use for bitmap and vectors.
 
 ---
 
@@ -619,7 +618,7 @@ Not the case for vector layers. Tiles since 2005 till, transition to vector happ
 
 ## [Openlayers](http://www.openlayers.org)
 
-Note: 
+Note:
 adsdklaslkdkas da.
 This is a note
 ---
@@ -652,15 +651,10 @@ Both leaflet and openlayers depend on this logic: A "map" div places a map eleme
 ---
 
 
-<iframe data-src="https://darksky.net/25.7743,-80.1937#map-container" width="100%" height="700px" frameBorder="0" ></iframe>
+<iframe data-src="https://embed.windy.com/" width="100%" height="700px" frameBorder="0" ></iframe>
 
 Note:
-Openlayers
-
-Some fun with tilesets. 
-Hourly and daily forecasts for the next week.
-Minute-by-minute “hyperlocal” rain forecasts.
-Observations going back decades.
+Leaflet
 
 ---
 
@@ -674,7 +668,7 @@ Enables client side geoprocessing by a javascript library for spatial analysis.
 * Calculates area and distance
  * "nearest coffee shop"
 * Joining points to polygons
- * "count coffee shops in 1km radius" 
+ * "count coffee shops in 1km radius"
 
 <p style="text-align:right">Check out http://turfjs.org/</p>
 
@@ -688,8 +682,8 @@ https://codepen.io/lassegs/pen/yavPvX
 Make your own
 ---
 
-Copypasta the code from the previous slide into your 
-#### M:/www_docs/index.html 
+Copypasta the code from the previous slide into your
+#### M:/www_docs/index.html
 set permissions to read for everyone
 and you'll have a map running at
 ####  http://folk.uio.no/yourusername/
@@ -712,9 +706,9 @@ Spaces of Free Software
 
 * Today 18:00 @ Bitraf.
 * [Event info & Registration](https://www.meetup.com/MaptimeOSL/events/234826532/)
-* Free pizzas. 
+* Free pizzas.
 
-Noobs are very welcome. Bring your laptop! 
+Noobs are very welcome. Bring your laptop!
 
 ---
 
@@ -722,8 +716,8 @@ Noobs are very welcome. Bring your laptop!
 
 [#hack4.no](hack4.no) is an interface between hackers, state and publics.
 
-* Student day October 26th.
-* Meet Norwegian data owners
+* [Student day](http://www.hack4.no/pages/student) October 26th.
+* Norwegian Mapping Authority: Meet Norwegian data owners
 * Get help for student project
 * Free
 
@@ -736,7 +730,7 @@ Noobs are very welcome. Bring your laptop!
 ---
 ## Tools
 
-* https://carto.com/ CartoDB has been renamed Carto and is even more streamlined. Runs as a service, only 250mb free.
+* https://carto.com/ Web maps as a service, only 250mb free.
 * https://knightlab.northwestern.edu/projects/  - nice and easy javascripts for embedding complex maps in web pages.
 * http://pixelmap.amcharts.com/ - Simple and fun pixel map editor
 * http://systemapic.com/ - Innovative UiO based beta, for sharing and publishing geodata on and to the web
@@ -745,17 +739,23 @@ more at http://blokk.lassegs.org
 ---
 
 
+![QGIS3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/2000px-QGIS_logo%2C_2017.svg.png)
+QGIS 3.0 releases this fall. Beta is already out and it is awesome.
 
-Future:
-### [IPFS](https://ipfs.io/) and [smart contracts](https://en.wikipedia.org/wiki/Smart_contract)?
+* Multiple projects open simultaniously
+* HiDPI support
+* Improved feature editing, dialoges, symbols, colors.
+* Native 3D support
+* + Tons of other features
 
 ---
 
 ## credits, inspirations and resources
 http://alignedleft.com/tutorials/d3/fundamentals
 
-Electronic Archeologist blog:
-Programming Historian blog: 
+[Electric Archeology blog](https://electricarchaeology.ca/)
+
+[Programming Historian blog](https://programminghistorian.org/)
 
 ---
 
